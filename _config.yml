@@ -1,8 +1,8 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: K1ngDamien's Blog
+title: K1ngDamien's Blog | A blog by an Ethical Hacker, Penetration tester and DevSecOps Ethusiast!
+description: Welcome to my blog where I'll discuss a bunch of topics ranging from Capture the Flag writeups, to opinion pieces, articles and projects I've been working on.
+
 tags:
   - blog
   - template
@@ -29,12 +29,9 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: k1ngdamien
+twitter_username: __dvermaas__
+linkedin_username: damienvermaas
 
 
 # Posts Settings
